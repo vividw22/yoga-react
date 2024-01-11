@@ -1,0 +1,28 @@
+.header-container {
+  background: rgb(1, 1, 1);
+  color: rgb(238, 233, 233);
+  text-align: center;
+  padding: 1rem;
+}
+
+.header-title {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.header-nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 1.2rem;
+}
+
+.header-nav a:hover {
+  border-bottom: 2px solid #fff;
+}

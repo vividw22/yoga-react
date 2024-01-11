@@ -1,0 +1,33 @@
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(./img/bg-profile.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .about-content {
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .about-title {
+    font-size: 2.5rem;
+    color: rgb(248, 245, 245);
+    margin-bottom: 20px;
+  }
+  
+  .about-description {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: rgb(240, 240, 240);
+    margin-bottom: 15px;
+  }
+  
+  .about-description:last-child {
+    margin-bottom: 0;
+  }
+  

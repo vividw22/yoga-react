@@ -1,0 +1,39 @@
+.education-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    background-image: url(./img/bg-profile.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .education-item {
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 600px;
+    width: 100%;
+    text-align: left;
+  }
+  
+  .education-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .education-school {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .education-date {
+    font-size: 1rem;
+    color: #777;
+  }
+  
