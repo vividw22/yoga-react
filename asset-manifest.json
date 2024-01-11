@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yoga-react/static/css/main.035570e7.css",
+    "main.js": "/yoga-react/static/js/main.836870f5.js",
+    "static/js/787.7241ad03.chunk.js": "/yoga-react/static/js/787.7241ad03.chunk.js",
+    "static/media/bg-profile.jpeg": "/yoga-react/static/media/bg-profile.eecce61848d69e41a60a.jpeg",
+    "static/media/profile.png": "/yoga-react/static/media/profile.ce2f6cdef5fccb13e8bc.png",
+    "index.html": "/yoga-react/index.html",
+    "main.035570e7.css.map": "/yoga-react/static/css/main.035570e7.css.map",
+    "main.836870f5.js.map": "/yoga-react/static/js/main.836870f5.js.map",
+    "787.7241ad03.chunk.js.map": "/yoga-react/static/js/787.7241ad03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035570e7.css",
+    "static/js/main.836870f5.js"
+  ]
+}
